@@ -17,8 +17,7 @@ browser
 text editor
 ```
 
-
-## Built With
+### Built With
 
 * [HTML](https://html.com/) - Main language used
 * [PHP](https://php.net/) - Language used
@@ -26,7 +25,7 @@ text editor
 * [Bootstrap](https://getbootstrap.com/) - The CSS framework used
 
 
-## Authors
+### Authors
 
 * **Fatchurr** - *Initial work* - [Fatchurr](https://github.com/Fatchurr)
 
