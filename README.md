@@ -2,28 +2,26 @@
 Download Lagu M4a
 
 
-# Project Description
+## Project Description
 
 Tugas akhir membuat Projek Web-Based XI RPL 2.
 
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-
 ### Prerequisites
 
-What things you need to install the software and how to install them
+What things you need to open this project
 
 ```
-Give examples
+xampp
+text editor
 ```
 
 
 ## Built With
 
-* [PHP](https://php.net/) - Main language used
+* [HTML](https://html.com/) - Main language used
+* [PHP](https://php.net/) - Language used
+* [CSS](https://www.w3.org/Style/CSS/Overview.en.html) - Language used
 * [Bootstrap](https://getbootstrap.com/) - The CSS framework used
 
 
