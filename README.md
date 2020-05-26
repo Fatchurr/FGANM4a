@@ -13,6 +13,7 @@ What things you need to open this project
 
 ```
 xampp
+browser
 text editor
 ```
 
